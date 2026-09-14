@@ -7,6 +7,7 @@ I am a passionate **Information Technology student** focused on backend engineer
 * 🛠️ Building a **Sports Management System** in Java using structured ER-Diagram layouts.
 * 🧠 Solving **Striver's DSA A-to-Z Roadmap** daily (currently mastering sorting algorithms).
 * 🌐 Learning the **MERN Stack** to build rapid, scalable web ecosystems.
+* 📂 Building a **File Integrity Monitor** in Python using sha256 hashing to detect changes in the files using recursive folder scanning.
 
 ### 🛠️ Tech Stack & Skills
 
@@ -17,7 +18,7 @@ I am a passionate **Information Technology student** focused on backend engineer
 ### 📂 Highlighted Projects
 
 ### 🔒 [Cryptographic Password Manager](https://github.com/sahu05amarjeet-gif/python-practice/blob/main/Practice/password-manager.py)
-
+### 🔐 [File Integrity Monitor](https://github.com/sahu05amarjeet-gif/File-Integrity-Monitor)
 A standalone security application built completely from scratch using **Python**. 
 
 * Implemented secure salting and cryptographic hashing to prevent credential theft.
