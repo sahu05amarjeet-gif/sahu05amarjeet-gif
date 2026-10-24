@@ -1,6 +1,6 @@
 ### Hi, I'm [Amarjeet Sahu] 👋
 
-I am a passionate **Information Technology student** focused on backend engineering, data structures, and secure application logic. Currently diving deep into **Full Stack Development** while building everyday problems to sharpen my architectural skills. 
+I am a passionate **Computer Science Student** focused on backend engineering, data structures, and secure application logic. Currently diving deep into **Full Stack Development** while building everyday problems to sharpen my architectural skills. 
 
 ### 🚀 What I'm working on right now
 
