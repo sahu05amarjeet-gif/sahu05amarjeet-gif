@@ -18,7 +18,7 @@ I am a passionate **Computer Science Student** focused on backend engineering, d
 ### 📂 Highlighted Projects
 
 ### 🔒 [Cryptographic Password Manager](https://github.com/sahu05amarjeet-gif/python-practice/blob/main/Practice/password-manager.py)
-### 🔐 [File Integrity Monitor](https://github.com/sahu05amarjeet-gif/File-Integrity-Monitor)
+### 🔐 [File Integrity Monitor]([https://github.com/sahu05amarjeet-gif/File-Integrity-Monitor](https://github.com/amarjeetsahu/ArenaX-College-Sports-Management-System-JAVA-))
 A standalone security application built completely from scratch using **Python**. 
 
 * Implemented secure salting and cryptographic hashing to prevent credential theft.
