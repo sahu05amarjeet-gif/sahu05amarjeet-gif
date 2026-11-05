@@ -11,7 +11,7 @@ I am a passionate **Computer Science Student** focused on backend engineering, d
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, Java, C++, C
+* **Languages:** Python, Java, C++, mySQL
 * **Security & Databases:** Cryptographic Hashing (Salt/Hash), MySQL, Relational Database Design (ERDs)
 * **Tools:** Git, GitHub, VS Code
 
