@@ -4,9 +4,9 @@ I am a passionate **Computer Science Student** focused on backend engineering, d
 
 ### 🚀 What I'm working on right now
 
-* 🛠️ Building a **Sports Management System** in Java using structured ER-Diagram layouts.
-* 🧠 Solving **Striver's DSA A-to-Z Roadmap** daily (currently mastering sorting algorithms).
-* 🌐 Learning the **MERN Stack** to build rapid, scalable web ecosystems.
+* 🛠️ Building a **Forgotten-Kingdom** a console based text RPG built in Java, featuring player stats, enemy encounters, and turn-based combat.
+* 🧠 Solving **Striver's DSA A-to-Z Roadmap** daily (currently mastering Binary Search pattern).
+* 🌐 Learning the **JAVA & Springboot** to build enterprise, scalable web ecosystems.
 * 📂 Building a **File Integrity Monitor** in Python using sha256 hashing to detect changes in the files using recursive folder scanning.
 
 ### 🛠️ Tech Stack & Skills
